@@ -1,1 +1,3 @@
 # Programming-Term-Project-C-language-
+
+This project requried team memebers to create code using the C programming language to analysis and assess to temprature data from an external file of the Great Lakes. This data can be automatically inserted through and external text file where the program reads and performs all the calulcation and comparisons for the desired quantatative analysis. Throughtout the duration of the project, leadership and project mangement skils have been demonstarted in order to maintain team composure and stay on task. Overall the completionof the project created new learing oppurtuinties from which an indiviusal can learn more about the proffesional work enviornment.
